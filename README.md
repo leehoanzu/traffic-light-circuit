@@ -1,4 +1,4 @@
-# Welcome to my Repository - Descibe MATLAB simulation
+# Welcome to my Repository - Simulate traffic light
 
 ## You will find in this repo:
 
