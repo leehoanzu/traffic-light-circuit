@@ -1,0 +1,34 @@
+ÀÄmachdengiaothong
+   ÀÄMAIN  0/348  Ram=4
+      ÃÄ@cinit1  (Inline)  Ram=0
+      ÃÄ@DIV88  0/21  Ram=3
+      ÃÄ@DIV88  0/21  Ram=3
+      ÃÄ@DIV88  0/21  Ram=3
+      ÃÄ@DIV88  0/21  Ram=3
+      ÃÄXUAT_4LED_7DOAN  0/21  Ram=4
+      ³  ÃÄXUAT_1BYTE  0/24  Ram=2
+      ³  ÃÄXUAT_1BYTE  0/24  Ram=2
+      ³  ÃÄXUAT_1BYTE  0/24  Ram=2
+      ³  ÀÄXUAT_1BYTE  0/24  Ram=2
+      ÃÄ@delay_ms1  0/20  Ram=1
+      ÃÄ@DIV88  0/21  Ram=3
+      ÃÄ@DIV88  0/21  Ram=3
+      ÃÄ@DIV88  0/21  Ram=3
+      ÃÄ@DIV88  0/21  Ram=3
+      ÃÄXUAT_4LED_7DOAN  0/21  Ram=4
+      ³  ÀÄ*
+      ÃÄ@delay_ms1  0/20  Ram=1
+      ÃÄ@DIV88  0/21  Ram=3
+      ÃÄ@DIV88  0/21  Ram=3
+      ÃÄ@DIV88  0/21  Ram=3
+      ÃÄ@DIV88  0/21  Ram=3
+      ÃÄXUAT_4LED_7DOAN  0/21  Ram=4
+      ³  ÀÄ*
+      ÃÄ@delay_ms1  0/20  Ram=1
+      ÃÄ@DIV88  0/21  Ram=3
+      ÃÄ@DIV88  0/21  Ram=3
+      ÃÄ@DIV88  0/21  Ram=3
+      ÃÄ@DIV88  0/21  Ram=3
+      ÃÄXUAT_4LED_7DOAN  0/21  Ram=4
+      ³  ÀÄ*
+      ÀÄ@delay_ms1  0/20  Ram=1
