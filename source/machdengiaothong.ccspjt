@@ -6,7 +6,7 @@ Compiler=PCM
 [Target Data]
 FileList=machdengiaothong.c
 [Directories]
-Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\;C:\Program Files (x86)\PICC\Drivers\C:\Program Files (x86)\PICC\Devices\
 [machdengiaothong.c]
 Type=4
 [mru-list]

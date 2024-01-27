@@ -1,0 +1,42 @@
+# CCS (Code Composer Studio) for PIC C
+
+# Compiled Object files
+*.o
+
+# Compiled Executables
+*.out
+
+# Compiled HEX files
+*.hex
+
+# Compiled ELF files
+*.elf
+
+# Debug files and folders
+Debug/
+*.dbg
+
+# Proteus
+
+# Project settings file
+*.psp
+
+# Simulation output files
+*.pof
+*.dpo
+*.dbg
+
+# Temporary files
+*.bak
+*.bdb
+*.bkc
+*.bpro
+*.lyt
+
+# Folder specific Proteus generated files
+BIN/
+DSN/
+SYM/
+
+# Custom Proteus settings file (if applicable)
+*.opt

@@ -13,16 +13,16 @@ Stack size: 8
 
 Lines Stmts  %   Files
 ----- ----- ---  -----
-   97    51 100  machdengiaothong.c
-  768     0   0  C:\Program Files (x86)\PICC\Devices\16F887.H
+  100    51 100  machdengiaothong.c
+  768     0   0  C:\Program Files (x86)\PICC\Devices\16f887.h
 ----- -----
-  865    51 Total
+  868    51 Total
 
 Page ROM  %  RAM   Vol Diff  Functions:
 ---- --- --- ---   --- ----  ----------
 0     20   5    1             @delay_ms1
-0     24   5    2   234  4.3  XUAT_1BYTE
-0     21   5    4   160  1.8  XUAT_4LED_7DOAN
+0     24   5    2   234  4.3  xuat_1byte
+0     21   5    4   160  1.8  xuat_4led_7doan
 0    348  79    4  1623  6.9  MAIN
 0     21   5    3             @DIV88
  Inline         0             @cinit1

@@ -6,9 +6,9 @@
 01B     CCP_2
 01B     CCP_2_LOW
 01C     CCP_2_HIGH
-020     DEM1
-021     DEM2
-022-02B MA7DOAN
+020     dem1
+021     dem2
+022-02B ma7doan
 02C     @TRIS_C
 02D     MAIN.@SCRATCH1
 02E     @delay_ms1.P1
@@ -17,14 +17,14 @@
 030     @DIV88.P1
 030     MAIN.@SCRATCH4
 031     @DIV88.P1
-031     XUAT_4LED_7DOAN.LED4
-032     XUAT_4LED_7DOAN.LED3
+031     xuat_4led_7doan.led4
+032     xuat_4led_7doan.led3
 032     @DIV88.@SCRATCH1
-033     XUAT_4LED_7DOAN.LED2
-034     XUAT_4LED_7DOAN.LED1
-035     XUAT_1BYTE.BYTEXUAT
-035.7   XUAT_1BYTE.BSER
-036     XUAT_1BYTE.I
+033     xuat_4led_7doan.led2
+034     xuat_4led_7doan.led1
+035     xuat_1byte.bytexuat
+035.7   xuat_1byte.bser
+036     xuat_1byte.i
 077     @SCRATCH
 078     @SCRATCH
 078     _RETURN_
@@ -37,22 +37,22 @@
 
 ROM Allocation:
 000004  @DIV88
-000019  XUAT_1BYTE
-000031  XUAT_4LED_7DOAN
+000019  xuat_1byte
+000031  xuat_4led_7doan
 000046  @delay_ms1
 00005A  MAIN
 00005A  @cinit1
 00006E  @cinit2
-008A  LAPLAI
+008A  laplai
 
 Project Directory:
-    D:\HOC\visuly\code\
+    D:\HOC\ViXuLy\code\traffic-light-circuit\
 
 Project Files:
-    machdengiaothong.c                                      [13-Oct-22 18:55  CRC=CED14EF6]
-    C:\Program Files (x86)\PICC\Devices\16F887.H            [12-Nov-13 14:35  CRC=6CB1A611]
+    machdengiaothong.c                                      [18-May-23 22:51  CRC=47CB00B9]
+    C:\Program Files (x86)\PICC\Devices\16f887.h            [12-Nov-13 14:35  CRC=6CB1A611]
 
-Source signature=A8349B18
+Source signature=212E4CDB
 
 Units:
     machdengiaothong (main)
