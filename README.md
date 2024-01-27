@@ -1,9 +1,21 @@
-# Welcome to my Repository - Simulate traffic light
+# Welcome to My Repository - Simulating Traffic Light
 
-## You will find in this repo:
+## You will find in this repo the following stuff
 
-* C language
-* Proteus
-* README.md - this is file itself - using Markdown language
+* The Simulation of Traffic Lights in Proteus
+* Programming in C with CCS PIC C
+* ...
 
-### © 2023 Lê Hoàng Vũ | https://www.facebook.com/giausang.khatvong.16/
+## Screenshots
+
+![Source](https://github.com/leehoanzu/traffic-light-circuit/blob/main/images/source.png)
+
+![Simulation](https://github.com/leehoanzu/traffic-light-circuit/blob/main/images/simulation.png)
+
+## Contact
+
+* Connect with me via email: lehoangvu260602@gmail.com
+
+## Copyright
+
+* Copyright &#169; 2023 Lê Hoàng Vũ
